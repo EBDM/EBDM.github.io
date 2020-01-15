@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bievenidos al Curso de EBM y ADC
 
 You can use the [editor on GitHub](https://github.com/Evidence-Based-Decision-Making/EBDM.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
