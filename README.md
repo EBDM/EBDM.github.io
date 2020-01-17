@@ -2,6 +2,8 @@
 
 ![Image](https://github.com/EBDM/EBDM.github.io/blob/master/EBDM_UDG_LOGO.png)
 
+![alt text](https://github.com/EBDM/EBDM.github.io/blob/master/EBDM_UDG_LOGO.png)
+
 Curso para las materias de Medicina Basada en la Evidencia y Analisis de la Decision en la clinica del Centro Universitario de Ciencias de la Salud.
 
 Para Ingresar a los Contenidos de Medicina Basada en la Evidencia: [Medicina Basada en la Evidencia Programa](https://drive.google.com/open?id=1FmqEKS2y4vL6bsH0AQ0dRmZ7TNXb6YeA)
