@@ -1,37 +1,8 @@
 ## Bievenidos al Curso de EBM y ADC
 
-You can use the [editor on GitHub](https://github.com/Evidence-Based-Decision-Making/EBDM.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Curso para las materias de Medicina Basada en la Evidencia y Analisis de la Decision en la clinica del Centro Universitario de Ciencias de la Salud.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para Ingresar a los Contenidos de Medicina Basada en la Evidencia: [Medicina Basada en la Evidencia Programa] (https://drive.google.com/open?id=1FmqEKS2y4vL6bsH0AQ0dRmZ7TNXb6YeA)
 
-### Markdown
+Para Ingresar a los Contenidos de Analisis de la Decisión en la Clinica: [Analisis de la Decisión en la Clinica] (https://drive.google.com/open?id=14t0LiL0b4n_WP1GXEn--a_knc0-rY5d7)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Evidence-Based-Decision-Making/EBDM.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
