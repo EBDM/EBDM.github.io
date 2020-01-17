@@ -9,3 +9,6 @@ Para Ingresar a los Contenidos de Medicina Basada en la Evidencia: [Medicina Bas
 
 Para Ingresar a los Contenidos de Analisis de la Decisión en la Clinica: [Analisis de la Decisión en la Clinica](https://drive.google.com/open?id=14t0LiL0b4n_WP1GXEn--a_knc0-rY5d7)
 
+Profesor del Curso: Dr. Netzahualpilli Delgado Figueroa
+CV del profesor: [Perfil de ResearchGate](https://www.researchgate.net/profile/Netzahualpilli_Delgado-Figueroa)
+Contacto: [Email](netzahualpilli.dfigueroa@academicos.udg.mx)
