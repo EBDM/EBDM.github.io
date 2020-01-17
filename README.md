@@ -1,6 +1,6 @@
 ## Bienvenidos al Curso de EBM y ADC
 
-
+![Image](https://github.com/EBDM/EBDM.github.io/blob/master/EBDM_UDG_LOGO.png)
 
 Curso para las materias de Medicina Basada en la Evidencia y Analisis de la Decision en la clinica del Centro Universitario de Ciencias de la Salud.
 
