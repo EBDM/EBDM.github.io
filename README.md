@@ -11,4 +11,7 @@ Para Ingresar a los Contenidos de Analisis de la Decisión en la Clinica: [Anali
 
 Profesor del Curso: Dr. Netzahualpilli Delgado Figueroa
 CV del profesor: [Perfil de ResearchGate](https://www.researchgate.net/profile/Netzahualpilli_Delgado-Figueroa)
-Contacto: [Email](netzahualpilli.dfigueroa@academicos.udg.mx)
+
+Guadalajara, Jalisco, México, 2020.
+
+![Image](https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
