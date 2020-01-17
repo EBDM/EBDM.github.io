@@ -1,4 +1,6 @@
-## Bievenidos al Curso de EBM y ADC
+## Bienvenidos al Curso de EBM y ADC
+
+
 
 Curso para las materias de Medicina Basada en la Evidencia y Analisis de la Decision en la clinica del Centro Universitario de Ciencias de la Salud.
 
