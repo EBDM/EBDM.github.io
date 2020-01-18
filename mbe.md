@@ -1,6 +1,6 @@
-#Contenidos de la materia de Medicina Basada en la Evidencia:
+## Contenidos de la materia de Medicina Basada en la Evidencia:
 
-1. Semana 1:
+# Semana 1:
 
 ¿Qué es Medicina Basada en la Evidencia?
 
@@ -10,5 +10,5 @@ Ensayos Clinicos Aleatorizados:
 
 ECRAN - ENSAYOS CLINICOS ALEATORIOS - via Youtube.com
 
-2. Semana 2:
+# Semana 2:
 
