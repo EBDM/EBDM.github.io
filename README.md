@@ -9,7 +9,7 @@ Para Ingresar a los Contenidos de Medicina Basada en la Evidencia: [Medicina Bas
 
 Para Ingresar a los Contenidos de Análisis de la Decisión en la Clínica: [Análisis de la Decisión en la Clínica](https://drive.google.com/open?id=14t0LiL0b4n_WP1GXEn--a_knc0-rY5d7)
 
-## Contenidos por [Semanas de Anaálisis de la Decisión en la Clínica](https://ebdm.github.io/adc)
+## Contenidos por [Semanas de Análisis de la Decisión en la Clínica](https://ebdm.github.io/adc)
 
 Profesor del Curso: Dr. Netzahualpilli Delgado Figueroa
 
