@@ -4,6 +4,9 @@
 
 ¿Qué es Medicina Basada en la Evidencia?
 
+
+**Acceso a las Slides de la** [1er semana](https://ebdm.github.io/Sesion1_MBE.pdf)
+
  + **Aquí puedes consultar el libro de Testing Treatments:** [Español](https://es.testingtreatments.org)
 
 Ensayos Clinicos Aleatorizados:
