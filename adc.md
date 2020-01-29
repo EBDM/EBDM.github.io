@@ -14,6 +14,15 @@ ECRAN - ENSAYOS CLINICOS ALEATORIOS - via Youtube.com
 
 # Semana 2: Informatica Biomedica
 
+Acceso a PUBMED (https://www.ncbi.nlm.nih.gov/pubmed)
+
+Acceso a COCHRANE (https://www.cochranelibrary.com/)
+
+Acceso a ACP JOURNAL CLUB (http://www.acpjc.org/)
+
+
+
+
 # Semana 3: Informatica Biomedica
 
 
