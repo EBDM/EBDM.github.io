@@ -33,41 +33,41 @@ Acceso a [COCHRANE](https://www.cochranelibrary.com/)
 
 Acceso a [ACP JOURNAL CLUB](http://www.acpjc.org/)
 
-# Semana 3: Informática biomédica
+# Semana 3: Pregunta clínica contestable (PICO, PEO, PECOT)
 
-# Semana 4: Informática biomédica
+# Semana 4: Generalidades de estadística
 
-# Semana 5: Informática biomédica
+# Semana 5: Epidemiologia clínica (Global Barden of Diseases GBD 2018)
 
-# Semana 6: Informática biomédica
+# Semana 6: Estudios clínicos (Ensayo Clinico Aleatorio)
 
-# Semana 7: Informática biomédica
+# Semana 7: Registro de Protocolos (Alltrials.net)
 
-# Semana 8: Informática biomédica
+# Semana 8: Estudios observacionales
 
-# Semana 9: Informática biomédica
+# Semana 9: Conceptos de estadísticos y epidemiológicos básicos
 
-# Semana 10: Informática biomédica
+# Semana 10: Pruebas diagnosticas
 
-# Semana 11: Informática biomédica
+# Semana 11: Conceptos Estadísticos en la Toma de Decisiones
 
-# Semana 12: Informática biomédica
+# Semana 12: Revisiones Sistemáticas y Metaanalisis
 
-# Semana 13: Informática biomédica
+# Semana 13: Lectura Critica CASP Terapia
 
-# Semana 14: Informática biomédica
+# Semana 14: Lectura Critica CASP Revisión Sistemática
 
-# Semana 15: Informática biomédica
+# Semana 15: Valores y preferencias del paciente (Toma de Decisiones Compartida)
 
-# Semana 16: Informática biomédica
+# Semana 16: CrowdSource EBM
 
-# Semana 17: Informática biomédica
+# Semana 17: Informed Health Choices
 
-# Semana 18: Informática biomédica
+# Semana 18: Journal Clubs Universitarios
 
-# Semana 19: Informática biomédica
+# Semana 19: Uso de Sumarios y Sipnosis (UptoDate, Dynamed, ACP Journal Club)
 
-# Semana 20: Informática biomédica
+# Semana 20: Inteligencia Artificial en la Medicina
 
 
 
