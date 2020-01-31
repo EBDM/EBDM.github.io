@@ -5,7 +5,7 @@ Curso para las materias de Medicina Basada en la Evidencia y Análisis de la Dec
 
 Para Ingresar a los Contenidos de Medicina Basada en la Evidencia: [Medicina Basada en la Evidencia Programa](https://drive.google.com/open?id=1FmqEKS2y4vL6bsH0AQ0dRmZ7TNXb6YeA)<img src="https://image.flaticon.com/icons/png/512/36/36063.png" width="15" height="15" />
 
-## Contenidos por [Semanas de Medicina Basada en la Evidencia](https://ebdm.github.io/mbe)
+## Contenidos por [Semanas de Medicina Basada en la Evidencia](https://ebdm.github.io/mbe) <img src="https://p.kindpng.com/picc/s/113-1135572_pyramid-infographic-pyramid-chart-infographic-png-transparent-png.png" width="30" height="30" /> 
 
 Para Ingresar a los Contenidos de Análisis de la Decisión en la Clínica: [Análisis de la Decisión en la Clínica](https://drive.google.com/open?id=14t0LiL0b4n_WP1GXEn--a_knc0-rY5d7)<img src="https://image.flaticon.com/icons/png/512/36/36063.png" width="15" height="15" />
 
