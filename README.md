@@ -3,7 +3,7 @@
 
 Curso para las materias de Medicina Basada en la Evidencia y Análisis de la Decisión en la Clínica del Centro Universitario de Ciencias de la Salud.
 
-Para Ingresar a los Contenidos de Medicina Basada en la Evidencia: [Medicina Basada en la Evidencia Programa](https://drive.google.com/open?id=1FmqEKS2y4vL6bsH0AQ0dRmZ7TNXb6YeA)![Image] <img src="https://image.flaticon.com/icons/png/512/36/36063.png" width="30" height="30" />
+Para Ingresar a los Contenidos de Medicina Basada en la Evidencia: [Medicina Basada en la Evidencia Programa](https://drive.google.com/open?id=1FmqEKS2y4vL6bsH0AQ0dRmZ7TNXb6YeA)<img src="https://image.flaticon.com/icons/png/512/36/36063.png" width="30" height="30" />
 
 ## Contenidos por [Semanas de Medicina Basada en la Evidencia](https://ebdm.github.io/mbe)
 
