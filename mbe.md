@@ -37,7 +37,7 @@ Acceso a [ACP JOURNAL CLUB](http://www.acpjc.org/)
 
 # Semana 4: Generalidades de estadística
 
-# Semana 5: Epidemiologia clínica (Global Barden of Diseases GBD 2018)
+# Semana 5: Epidemiologia clínica (Global Burden of Diseases GBD 2018)
 
 # Semana 6: Estudios clínicos (Ensayo Clinico Aleatorio)
 
