@@ -1,8 +1,8 @@
 ## Contenidos de la materia de Análisis de la Desición en la Clínica:
 
-# Semana 1: Introducción a la Toma de Decisiónes:
+# Semana 1: Introducción a la Toma de Decisiones:
 
-Repaso sobre la utilización del método científico en el proceso de Toma de Decisiónes:
+Repaso sobre la utilización del método científico en el proceso de Toma de Decisiones:
 
  + **Aquí puedes consultar el libro de Testing Treatments:** [Español](https://es.testingtreatments.org)
 
@@ -12,32 +12,31 @@ Ensayos Clinicos Aleatorizados:
 
 ECRAN - ENSAYOS CLINICOS ALEATORIOS - via Youtube.com
 
-# Semana 2: Informatica Biomedica
+# Semana 2: Informática biomédica
 
-Acceso a PUBMED (https://www.ncbi.nlm.nih.gov/pubmed)
+Acceso a [PUBMED](https://www.ncbi.nlm.nih.gov/pubmed)
 
-Acceso a COCHRANE (https://www.cochranelibrary.com/)
+Acceso a [COCHRANE](https://www.cochranelibrary.com/)
 
-Acceso a ACP JOURNAL CLUB (http://www.acpjc.org/)
-
-
+Acceso a [ACP JOURNAL CLUB](http://www.acpjc.org/)
 
 
-# Semana 3: Informatica Biomedica
 
 
-# Semana 4: Informatica Biomedica
+# Semana 3: Introducción a la estadística y modelos de toma decisiones en la teoría de probabilidades
 
 
-# Semana 5: Informatica Biomedica
+# Semana 4: Modelo de toma de decisiones discriminante
 
 
-# Semana 6: Informatica Biomedica
+# Semana 5: Toma de decisiones por consenso
 
 
-# Semana 7: Informatica Biomedica
+# Semana 6: Modelo de toma de decisiones de la utilidad esperada
 
 
-# Semana 8: Informatica Biomedica
+# Semana 7: Modelo de toma de decisiones compartida
 
+
+# Semana 8: Modelo para la toma de decisiones por medio de Inteligencia Artificial
 
