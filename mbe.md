@@ -35,8 +35,9 @@ Acceso a [ACP JOURNAL CLUB](http://www.acpjc.org/)
 
 # Semana 3: Pregunta clínica contestable (PICO, PEO, PECOT)
 
-```ACTIVIDAD GRUPAL
+**ACTIVIDAD GRUPAL**
 
+```
 1# Nombres integrantes y grupo
 
 
