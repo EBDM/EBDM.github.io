@@ -17,7 +17,7 @@ ECRAN - ENSAYOS CLINICOS ALEATORIOS - via Youtube.com
 
 **TED TALK - Ben Goldacre - Lo que no saben los médicos sobre los medicamentos que prescriben**
 
-[![Alt text](https://img.youtube.com/vi/RKmxL8VYy0M/0.jpg)](https://www.youtube.com/watch?v=RKmxL8VYy0M)
+[![Alt text](https://img.youtube.com/vi/RKmxL8VYy0M/0.jpg)](https://www.youtube.com/watch?v=RKmxL8VYy0M)]
 
 TED TALKS - via Youtube.com
 
@@ -25,7 +25,7 @@ TED TALKS - via Youtube.com
 
 ¿Cómo buscar en las bases de datos?
 
-[![Alt text](https://img.youtube.com/vi/dncRQ1cobdc/0.jpg)](https://www.youtube.com/watch?v=dncRQ1cobdc)
+[![Alt text](https://img.youtube.com/vi/dncRQ1cobdc/0.jpg)](https://www.youtube.com/watch?v=dncRQ1cobdc)]
 
 Acceso a [PUBMED](https://www.ncbi.nlm.nih.gov/pubmed)
 
