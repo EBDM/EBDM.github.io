@@ -71,6 +71,14 @@ PUBMED: cough AND children AND honey AND days AND clinical trial
 
 # Semana 4: Generalidades de estadística
 
+Intervalos de Confianza: (Via Testing Treatments en Español)
+
+[![Alt text](http://es.testingtreatments.org/wp-content/uploads/2013/06/Screen-Shot-2013-06-05-at-8.14.51-AM-150x150.png)](https://vimeo.com/67625252)
+
+
+
+
+
 # Semana 5: Epidemiologia clínica (Global Burden of Diseases GBD 2018)
 
 # Semana 6: Estudios clínicos (Ensayo Clinico Aleatorio)
