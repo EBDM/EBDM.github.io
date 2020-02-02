@@ -97,12 +97,12 @@ Intervalos de Confianza: (Via Testing Treatments en Español)
 
 # Semana 13: Lectura Critica CASP Terapia
 
-[![Alt text](http://aulavirtual.redcaspe.org/moodle/pluginfile.php/1/theme_academi/logo/1513332263/logo%20caspe.png]
+[![Alt text](http://aulavirtual.redcaspe.org/moodle/pluginfile.php/1/theme_academi/logo/1513332263/logo%20caspe.png)]
 
 
 # Semana 14: Lectura Critica CASP Revisión Sistemática
 
-[![Alt text](http://aulavirtual.redcaspe.org/moodle/pluginfile.php/1/theme_academi/logo/1513332263/logo%20caspe.png]
+[![Alt text](http://aulavirtual.redcaspe.org/moodle/pluginfile.php/1/theme_academi/logo/1513332263/logo%20caspe.png)]
 
 
 
