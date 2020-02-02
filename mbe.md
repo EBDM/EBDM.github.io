@@ -97,17 +97,32 @@ Intervalos de Confianza: (Via Testing Treatments en Español)
 
 # Semana 13: Lectura Critica CASP Terapia
 
+[![Alt text](http://aulavirtual.redcaspe.org/moodle/pluginfile.php/1/theme_academi/logo/1513332263/logo%20caspe.png]
+
+
 # Semana 14: Lectura Critica CASP Revisión Sistemática
+
+[![Alt text](http://aulavirtual.redcaspe.org/moodle/pluginfile.php/1/theme_academi/logo/1513332263/logo%20caspe.png]
+
+
 
 # Semana 15: Valores y preferencias del paciente (Toma de Decisiones Compartida)
 
+*Victor Montori (Mayo Clinic):*
+
+
+
 # Semana 16: CrowdSource EBM
+
 
 # Semana 17: Informed Health Choices
 
+
 # Semana 18: Journal Clubs Universitarios
 
+
 # Semana 19: Uso de Sumarios y Sipnosis (UptoDate, Dynamed, ACP Journal Club)
+
 
 # Semana 20: Inteligencia Artificial en la Medicina
 
