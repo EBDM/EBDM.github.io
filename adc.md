@@ -98,6 +98,11 @@ Number of Pages XVIII, 199
 
 # Semana 7: Modelo de toma de decisiones compartida
 
+[![Alt text](https://img.youtube.com/vi/eFudnxd0wuI/0.jpg)](https://www.youtube.com/watch?v=eFudnxd0wuI)
+
+[![Alt text](https://img.youtube.com/vi/qwyx7yAP5zA/0.jpg)](https://www.youtube.com/watch?v=qwyx7yAP5zA)
+
 
 # Semana 8: Modelo para la toma de decisiones por medio de Inteligencia Artificial
 
+[![Alt text](https://img.youtube.com/vi/ii-FfE-7C-k/0.jpg)](https://www.youtube.com/watch?v=ii-FfE-7C-k)
