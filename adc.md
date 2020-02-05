@@ -65,7 +65,7 @@ PUBMED: cough AND children AND honey AND days AND clinical trial
 
 # Semana 3: Introducción a la estadística y modelos de toma decisiones en la teoría de probabilidades
 
-[![Alt text](https://images.springer.com/sgw/books/medium/9783030231460.jpg)
+![Alt text](https://images.springer.com/sgw/books/medium/9783030231460.jpg)
 
 
 # Semana 4: Modelo de toma de decisiones discriminante
