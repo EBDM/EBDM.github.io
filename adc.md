@@ -106,3 +106,5 @@ Number of Pages XVIII, 199
 # Semana 8: Modelo para la toma de decisiones por medio de Inteligencia Artificial
 
 [![Alt text](https://img.youtube.com/vi/ii-FfE-7C-k/0.jpg)](https://www.youtube.com/watch?v=ii-FfE-7C-k)
+
+*Escuela de Inteligencia Artificial de Microsoft Corporation:* https://aischool.microsoft.com/en-us/home
