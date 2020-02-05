@@ -65,8 +65,27 @@ PUBMED: cough AND children AND honey AND days AND clinical trial
 
 # Semana 3: Introducción a la estadística y modelos de toma decisiones en la teoría de probabilidades
 
-![Alt text](https://images.springer.com/sgw/books/medium/9783030231460.jpg)
+*Bibliografia Recomendada*
 
+[![Alt text](https://images.springer.com/sgw/books/medium/9783030231460.jpg)](https://wdg.biblio.udg.mx/index.php/bases-de-datos/multidisciplinarias)
+
+``` An Introduction to Medical Decision-Making
+Practical Insights and Approaches
+Authors Jonathan S. Vordermark II
+Copyright 2019
+Springer International Publishing
+Springer Nature Switzerland AG
+eBook ISBN 978-3-030-23147-7
+DOI 10.1007/978-3-030-23147-7
+Softcover ISBN 978-3-030-23146-0
+Edition Number 1
+Number of Pages XVIII, 199
+```
+*Calculadora del Tamaño de Muestra:* https://select-statistics.co.uk/calculators/sample-size-calculator-population-proportion/
+
+*Graficador de Árboles de Decisiones:* https://online.visual-paradigm.com/es/diagrams/features/decision-tree-software/
+
+*Algoritmos de UpToDate Pathways:* https://www.uptodate.com/contents/table-of-contents/pathways
 
 # Semana 4: Modelo de toma de decisiones discriminante
 
