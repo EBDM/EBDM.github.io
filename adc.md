@@ -30,8 +30,42 @@ Acceso a [COCHRANE](https://www.cochranelibrary.com/)
 
 Acceso a [ACP JOURNAL CLUB](http://www.acpjc.org/)
 
+**ACTIVIDAD GRUPAL**
+
+```
+1# Nombres integrantes y grupo
+
+
+2# Elegir pregunta (narrativa):
+
+- ¿La miel de abeja es efectiva para reducir los dias con tos en los niños?
+
+
+3# ESTRUCTURA
+
+P: niños con tos = Children AND cough
+
+I: Miel = honey
+
+C: No dar miel = (Nada)
+
+O: Dias con tos = days
+
+S: Diseño de estudio = clinical trial
+
+TIPO: Intervención
+
+
+4# BUSQUEDA: (PALABRAS CLAVES)
+
+PUBMED: cough AND children AND honey AND days AND clinical trial
+
+```
+
 
 # Semana 3: Introducción a la estadística y modelos de toma decisiones en la teoría de probabilidades
+
+[![Alt text](https://images.springer.com/sgw/books/medium/9783030231460.jpg)
 
 
 # Semana 4: Modelo de toma de decisiones discriminante
