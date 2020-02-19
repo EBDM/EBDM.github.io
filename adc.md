@@ -81,11 +81,11 @@ Softcover ISBN 978-3-030-23146-0
 Edition Number 1
 Number of Pages XVIII, 199
 ```
-*Calculadora del Tamaño de Muestra:* https://select-statistics.co.uk/calculators/sample-size-calculator-population-proportion/
+[*Calculadora del Tamaño de Muestra*](https://select-statistics.co.uk/calculators/sample-size-calculator-population-proportion/)
 
-*Graficador de Árboles de Decisiones:* https://online.visual-paradigm.com/es/diagrams/features/decision-tree-software/
+[*Graficador de Árboles de Decisiones*](https://online.visual-paradigm.com/es/diagrams/features/decision-tree-software/)
 
-*Algoritmos de UpToDate Pathways:* https://www.uptodate.com/contents/table-of-contents/pathways
+[*Algoritmos de UpToDate Pathways*](https://www.uptodate.com/contents/table-of-contents/pathways)
 
 # Semana 4: Modelo de toma de decisiones discriminante
 
