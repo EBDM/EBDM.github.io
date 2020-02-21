@@ -81,6 +81,7 @@ Softcover ISBN 978-3-030-23146-0
 Edition Number 1
 Number of Pages XVIII, 199
 ```
+
 [*Calculadora del Tamaño de Muestra*](https://select-statistics.co.uk/calculators/sample-size-calculator-population-proportion/)
 
 [*Graficador de Árboles de Decisiones*](https://online.visual-paradigm.com/es/diagrams/features/decision-tree-software/)
@@ -89,6 +90,9 @@ Number of Pages XVIII, 199
 
 # Semana 4: Modelo de toma de decisiones discriminante
 
+![Alt text](https://resources.bmj.com/repository/journals-network-project/images/journal-logos/logo-ebm.svg)
+
+https://ebm.bmj.com/content/6/6/164
 
 # Semana 5: Toma de decisiones por consenso
 
