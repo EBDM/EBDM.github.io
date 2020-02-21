@@ -90,9 +90,13 @@ Number of Pages XVIII, 199
 
 # Semana 4: Modelo de toma de decisiones discriminante
 
-![Alt text](https://resources.bmj.com/repository/journals-network-project/images/journal-logos/logo-ebm.svg)
+Which methods for bedside Bayes?
+Paul Glasziou, MBBS, PHD
+
+http://dx.doi.org/10.1136/ebm.6.6.164
 
 https://ebm.bmj.com/content/6/6/164
+
 
 # Semana 5: Toma de decisiones por consenso
 
