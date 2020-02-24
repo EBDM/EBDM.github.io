@@ -18,7 +18,7 @@
 
 [Casos y Controles CASP](http://www.redcaspe.org/system/tdf/materiales/casos_y_controles.pdf)
 
-[Casos y Contoles JBI](https://joannabriggs.org/sites/default/files/2019-05/JBI_Critical_Appraisal-Checklist_for_Case_Control_Studies2017_0.pdf)
+[Casos y Controles JBI](https://joannabriggs.org/sites/default/files/2019-05/JBI_Critical_Appraisal-Checklist_for_Case_Control_Studies2017_0.pdf)
 
 4. Estudio Transversal
 
