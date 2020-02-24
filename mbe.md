@@ -67,7 +67,7 @@ PUBMED: cough AND children AND honey AND days AND clinical trial
 
 ```
 
-
+_Visita el proyecto grupal de la **PICOlibrary**_ https://ebdm.github.io/PICOlibrary/
 
 # Semana 4: Generalidades de estadística
 
@@ -80,6 +80,9 @@ Intervalos de Confianza: (Via Testing Treatments en Español)
 
 
 # Semana 5: Epidemiologia clínica (Global Burden of Diseases GBD 2018)
+
+[![Alt text](http://www.healthdata.org/sites/default/files/styles/summary_image/public/files/images/DataVisualization_GBDCompare_2013.png)]
+(http://www.healthdata.org/gbd)
 
 # Semana 6: Estudios clínicos (Ensayo Clinico Aleatorio)
 
