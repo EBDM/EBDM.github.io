@@ -93,15 +93,17 @@ Number of Pages XVIII, 199
 Which methods for bedside Bayes?
 Paul Glasziou, MBBS, PHD
 
-http://dx.doi.org/10.1136/ebm.6.6.164
+[Which methods for bedside Bayes?](http://dx.doi.org/10.1136/ebm.6.6.164)
 
-https://ebm.bmj.com/content/6/6/164
+(https://ebm.bmj.com/content/6/6/164)
 
 
 # Semana 5: Toma de decisiones por consenso
 
 
 # Semana 6: Modelo de toma de decisiones de la utilidad esperada
+
+Calculadora Diagnostica, [Likelihood Ratios](http://araw.mede.uic.edu/cgi-bin/testcalc.pl)
 
 
 # Semana 7: Modelo de toma de decisiones compartida
