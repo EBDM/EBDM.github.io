@@ -112,6 +112,9 @@ Calculadora Diagnostica, [Likelihood Ratios](http://araw.mede.uic.edu/cgi-bin/te
 
 [![Alt text](https://img.youtube.com/vi/qwyx7yAP5zA/0.jpg)](https://www.youtube.com/watch?v=qwyx7yAP5zA)
 
+TOMA DE DECISIONES COMPARTIDAS [MAYO CLINIC](https://shareddecisions.mayoclinic.org/)
+(https://shareddecisions.mayoclinic.org/)
+
 
 # Semana 8: Modelo para la toma de decisiones por medio de Inteligencia Artificial
 
