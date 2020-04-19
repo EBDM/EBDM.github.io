@@ -100,8 +100,17 @@ Paul Glasziou, MBBS, PHD
 
 # Semana 5: Toma de decisiones por consenso
 
+En esta semana aprenderas acerca de las decisiones tomadas por concenso, dentro de los materiales a explorar se encuentran las Guias de Practica Clinica.
+
+Puedes buscar Guias a traves del Metabuscador de G-I-N (Guidelines International Network):
+
+![alt text](https://g-i-n.net/logo.png)
+
+[https://g-i-n.net/library/international-guidelines-library](https://g-i-n.net/library/international-guidelines-library)
+
 
 # Semana 6: Modelo de toma de decisiones de la utilidad esperada
+
 
 Calculadora Diagnostica, [Likelihood Ratios](http://araw.mede.uic.edu/cgi-bin/testcalc.pl)
 
