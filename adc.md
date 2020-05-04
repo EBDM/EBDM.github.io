@@ -18,6 +18,8 @@ ECRAN - ENSAYOS CLINICOS ALEATORIOS - via Youtube.com
 
 TED TALKS - via Youtube.com
 
+ **Aquí puedes consultar la Presentación de SEMANA 1:** [SEMANA 1](Sesion1_ADC.pdf)
+
 # Semana 2: Informática biomédica
 
 ¿Cómo buscar en las bases de datos?
@@ -62,6 +64,7 @@ PUBMED: cough AND children AND honey AND days AND clinical trial
 
 ```
 
+ **Aquí puedes consultar las Presentaciones de SEMANA 2:** [SEMANA 2a](Sesion2_ADC_UDG.pdf) [SEMANA 2b](Sesion2_ADC_CIAM.pdf) 
 
 # Semana 3: Introducción a la estadística y modelos de toma decisiones en la teoría de probabilidades
 
